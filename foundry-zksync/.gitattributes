@@ -1,0 +1,2 @@
+crates/cheatcodes/assets/*.json linguist-generated
+testdata/cheats/Vm.sol linguist-generated
